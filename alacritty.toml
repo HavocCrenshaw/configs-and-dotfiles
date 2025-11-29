@@ -1,0 +1,13 @@
+[general]
+working_directory = "C:/"
+
+[window]
+dimensions = { columns = 100, lines = 40 }
+position = { x = 500, y = 80 }
+padding = { x = 20, y = 20 }
+decorations = "None"
+dynamic_title = false
+
+[font]
+normal = { family = "JetBrains Mono", style = "Medium" }
+size = 12.0
